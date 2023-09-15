@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMagentoApi", "ClientMagentoApi\ClientMagentoApi.csproj", "{1D550D54-D1D5-4536-BC8B-84DB957710B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9CFFA557-83F9-45E3-A01F-695913B65AFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1D550D54-D1D5-4536-BC8B-84DB957710B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D550D54-D1D5-4536-BC8B-84DB957710B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D550D54-D1D5-4536-BC8B-84DB957710B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFFA557-83F9-45E3-A01F-695913B65AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFFA557-83F9-45E3-A01F-695913B65AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFFA557-83F9-45E3-A01F-695913B65AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFFA557-83F9-45E3-A01F-695913B65AFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

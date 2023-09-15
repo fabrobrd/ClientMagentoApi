@@ -27,7 +27,7 @@ namespace ClientMagentoApi
 
         public string GetAdminToken(string userName, string passWord)
         {
-            var request = CreateRequest("/rest/V1/integration/admin/token", Method.Post);
+            var request = CreateRequest("/V1/integration/admin/token", Method.Post);
             var user = new Credentials();
             user.userName = userName;
             user.password = passWord;
