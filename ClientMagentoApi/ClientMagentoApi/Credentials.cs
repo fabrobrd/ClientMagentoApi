@@ -8,7 +8,7 @@ namespace ClientMagentoApi
 {
     public class Credentials
     {
-        public string userName { get; set; }
+        public string username { get; set; }
         public string password { get; set; }
     }
 }
